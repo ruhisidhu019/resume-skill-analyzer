@@ -13,7 +13,7 @@ Resume Skill Analyzer is a Python-based project that extracts skills from PDF re
 ## ▶️ How to Run This Project
 
 1. Clone the repository:
-   git clone https://github.com/your-username/resume-skill-analyzer.git
+   git clone https://github.com/ruhisidhu019/resume-skill-analyzer
 2. Open the notebook:
    Resume_Skill_Analyzer.ipynb
 3. Run all cells step by step
